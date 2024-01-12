@@ -1,4 +1,4 @@
-# brain-tumor-classification
+# Brain Tumor Classification using CNN
 Deep learning project on brain tumor classification
 Part of postgraduate assignment submission for _Deep Learning (DL)_  
   
